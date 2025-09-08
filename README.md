@@ -10,7 +10,7 @@ My dream is to be a great developer. But I have a more cherished dream, but I ca
 - 🌱 I’m currently learning Python
 - 👯 I want to collaborate with gaming and talented companies. I wouldn't mind working with other developers from different fields of development
 - 🤔 I’m looking for help with testing my programs
-- 💬 Ask me about my favoutite game.
+- 💬 Ask me about my favourite game.
 - 📫 How to reach me: valentinkolesnikov2704@gmail.com
 - 😄 Pronouns: only! he/him
 - ⚡ Fun fact: it's hard for me to introduce myself and communicate with people
